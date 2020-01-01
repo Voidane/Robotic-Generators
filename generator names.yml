@@ -1,0 +1,30 @@
+# When changing generator names the top of the list starts as 1 then goes down to 10, just dont have the same name for one
+# it will cuase problems and it makes no sense
+Version: 1.0
+Generator Levels:
+   - '&f[&fI&f]'
+   - '&f[&fII&f]'
+   - '&f[&fIII&f]'
+   - '&f[&bIV&f]'
+   - '&f[&bV&f]'
+   - '&f[&bVI&f]'
+   - '&f[&5VII&f]'
+   - '&f[&5VIII&f]'
+   - '&f[&5IX&f]'
+   - '&f[&410&f]'
+Diamond Ore Generator:
+   Name: "&aDiamond Ore Generator"
+   Information:
+      - ' =[ ONLY CHANGE THE COLORS FOR THE LORE ]= '
+   Lore:
+      - '&f======================='
+      - '&b><] &8&lSpeed Boost: &f%speedboost%%'
+      - ''
+      - '&b><] &8&lExtra Drop Chance: &f%extradropchance%%'
+      - ''
+      - '&b><] &8&lSelling Multiplier: &f%sellingmultiplier%%'
+      - ''
+      - '&b><] &8&lStorage Upgrader: &f%storageupgrade%'
+      - ''
+      - '&b><] &8&lTier Upgrade: &f%tierupgrade%'
+      - '&f======================='

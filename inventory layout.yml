@@ -1,0 +1,286 @@
+##########################
+#   Material:             : Type of block you want to use
+#   Material Damage:      : Used when there are multiple types of the same block like wool
+#   Name: ''              : Set the name of the item to display
+#   Lore: []              : Set the lore or description of the item in display
+##########################   
+Speed Boost:
+   Name: '&9&l<>] &bSpeed Boost'
+   Lore:
+      - ''
+      - '&e&lINFO'
+      - '&7Enhances and boosts the speed of the'
+      - '&7generators original tier stats by the multiplier'
+      - '&7to make items generate quicker'
+      - '&aUpgraded by coins from your Mechanical Robot'
+      - ''
+      - '&bLevel: &9%speedboostlevel%&b / &914'
+      - ''
+      - '&cCurrent Multiplier: &b%speedboost%'
+Extra Drop Chance:
+   Name: '&9&l<>] &5Extra Drop Chance'
+   Lore:
+      - ''
+      - '&e&lINFO'
+      - '&7Boosts the percent to get a doble'
+      - '&7drop chance of when an item spits'
+      - '&7out, the higher the tier the better enhancer'
+      - '&aUpgraded by coins from your Mechanical Robot'
+      - ''
+      - '&bLevel: &9%extradropchancelevel%&b / &914'
+      - ''
+      - '&cCurrent Multiplier: &b%extradropchance%'
+Selling Multiplier:
+   Name: '&9&l<>] &aSelling Multiplier'
+   Lore:
+      - ''
+      - '&e&lINFO'
+      - '&7When selling with the robot you can gain'
+      - '&7a percentage more of money and the higher'
+      - '&7the level the more money you recieve'
+      - '&aUpgraded by coins from your Mechanical Robot'
+      - ''
+      - '&bLevel: &9%sellingmultiplierlevel%&b / &914'
+      - ''
+      - '&cCurrent Multiplier: &b%sellingmultiplier%'
+Storage Upgrader:
+   Name: '&9&l<>] &6Storage Upgrader'
+   Lore:
+      - ''
+      - '&e&lINFO'
+      - '&7Upgrade the amount of items that can be'
+      - '&7stored in the robot, does not very by tier'
+      - '&7allows for slots to fill up past only 64'
+      - '&7to see, just hover over the item for the total'
+      - '&aUpgraded by coins from your Mechanical Robot'
+      - ''
+      - '&bLevel: &9%storageupgradelevel%&b / &914'
+      - ''
+      - '&cCurrent Space Allowed: &b%storageupgrader%'
+Tier Upgrader:
+   Name: '&9&l<>] &bTier Upgrader'
+   Lore:
+      - ''
+      - '&e&lINFO'
+      - '&7The higher the tier the better stats'
+      - '&7the robot has overall to have and enhance'
+      - '&aUpgraded by coins from your Mechanical Robot'
+      - ''
+      - '&bLevel: &9%tierupgraderlevel%&b / &914'
+      - ''
+      - '&cCurrent Tier: &b%tierupgrader%'
+Mechanical Robot:
+   Name: '&bMechanical Robot Info'
+   Lore:
+      - ''
+      - '&eCoins Generated&6: &9%coinsgenerated%'
+      - ''
+      - '&e&lINFO'
+      - '&7Coins generated from this robot can be'
+      - '&7used to upgrade the robots stats'
+      - '&aThe higher the tier the more coins generated'
+Store Robot:
+   Name: '&bStorage Unit'
+   Lore:
+      - ''
+      - '&a> Access your chest your robot has produced'
+1:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+2:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+3:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+4:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+5:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+6:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+7:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+8:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+9:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+10:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+11:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+12:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+13:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+14:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+15:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+16:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+17:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+18:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+19:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+27:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+28:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+36:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+37:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+38:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+39:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+40:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+41:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+42:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+43:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+44:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+45:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+46:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+47:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+48:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+49:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+50:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+51:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+52:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+53:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []
+54:
+   Material: 'STAINED_GLASS_PANE' 
+   Material Damage: 0
+   Name: ' '
+   Lore: []

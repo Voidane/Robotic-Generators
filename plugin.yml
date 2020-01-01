@@ -1,0 +1,10 @@
+name: AdvancedItemGenerators
+author: Voidane
+version: 1.0
+main: org.voidane.aig.Plugin
+description: TO-DO
+commands:
+   dhead:
+      description: open up the options for elite block effects
+      usage: /eliteblockeffects help ( For more Information )
+      aliases: [ebe,elitebe,eliteblocke]

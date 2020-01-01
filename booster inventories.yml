@@ -1,0 +1,217 @@
+#
+#
+#
+#
+#
+#
+Speed Booster Inventory:
+   Title: "&9Speed Boost &0: &9Current Lv &b%lv%"
+   Upgrade 1:
+      Name: "&b&l[Speed Boost] &7Level &e0 &7-> &61"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b5 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - '%status%'
+      Coin Cost: 5
+      Increase: 5
+   Upgrade 2:
+      Name: "&b&l[Speed Boost] &7Level &e1 &7-> &61"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b10 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 10
+      Increase: 5
+   Upgrade 3:
+      Name: "&b&l[Speed Boost] &7Level &e2 &7-> &63"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b20 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 20
+      Increase: 5
+   Upgrade 4:
+      Name: "&b&l[Speed Boost] &7Level &e3 &7-> &64"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b50 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 50
+      Increase: 5
+   Upgrade 5:
+      Name: "&b&l[Speed Boost] &7Level &e4 &7-> &65"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b100 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 100
+      Increase: 5
+   Upgrade 6:
+      Name: "&b&l[Speed Boost] &7Level &e5 &7-> &66"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b150 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 150
+      Increase: 5
+   Upgrade 7:
+      Name: "&b&l[Speed Boost] &7Level &e6 &7-> &67"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b200 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 200
+      Increase: 5
+   Upgrade 8:
+      Name: "&b&l[Speed Boost] &7Level &e7 &7-> &68"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b300 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 300
+      Increase: 5
+   Upgrade 9:
+      Name: "&b&l[Speed Boost] &7Level &e8 &7-> &69"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b400 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 400
+      Increase: 5
+   Upgrade 10:
+      Name: "&b&l[Speed Boost] &7Level &e9 &7-> &b10"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b500 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 500
+      Increase: 5
+   Upgrade 11:
+      Name: "&b&l[Speed Boost] &7Level &910 &7-> &b11"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b650 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 650
+      Increase: 5
+   Upgrade 12:
+      Name: "&b&l[Speed Boost] &7Level &911 &7-> &b12"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b800 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 800
+      Increase: 5
+   Upgrade 13:
+      Name: "&b&l[Speed Boost] &7Level &912 &7-> &b13"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b1000 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 1000
+      Increase: 5
+   Upgrade 14:
+      Name: "&b&l[Speed Boost] &7Level &913 &7-> &c14"
+      Lore:
+         - ''
+         - '&e&lINFO'
+         - '&cCost: &b1250 coins'
+         - ''
+         - '&7Will increase production by 5.0%'
+         - '&7Also determins on tier level'
+         - ''
+         - '&aNew poduction: &c%currentspeed% &7-> &e%newspeed%'
+         - ''
+         - '%status%'
+      Coin Cost: 1250
+      Increase: 5

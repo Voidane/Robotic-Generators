@@ -1,0 +1,33 @@
+
+
+
+# Never change this, it will whipe the latest versions data in all configs
+Version: 1.0
+
+
+# How would you like to store the data?
+# Use server configuration data files stored in the same location of the folder Advanced Item Generator
+Server Files: true
+
+# READ-THIS , before switching to true make sure you have your database.yml setup properly or you will
+# recieve errors in console and in game to all op players
+Database: false
+
+
+# If you are not using a bungee cord server , aka , multiple server hostings and are just using one
+# Then disable the worlds you do not want this plugin to be in
+Disabled Worlds:
+   - "ExampleWorld"
+   - "ExampleWorld1"
+   
+   
+# Allows players with the correct permissions to craft any generator
+Allow Generator Recipes: true
+
+
+# Show the name of a robot in a hologram when a generator is placed
+Display Hologram Names: true
+
+
+# Show stats of the robot in a hologram
+Display Hologram Stats: true

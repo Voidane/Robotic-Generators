@@ -1,0 +1,9 @@
+# How to setup the database
+# If you are using a localhost server then use this https://ladvien.com/data-analytics-mysql-localhost-setup/ or xxamp ( preferred )
+# If you are using a hosted server, then check to see if they provide a free database, McProhosting does if not you have to buy a hosted database
+# If you do not setup a database the plugin will not run if you have database on true in the config.yml
+Host: "localhost"
+Port: 3306
+Username: "root"
+Password: "codmw333"
+        
